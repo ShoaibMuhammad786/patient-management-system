@@ -16,7 +16,7 @@ const Sidebar = () => {
     <RiSettings5Fill className="text-lg" />,
   ];
   return (
-    <div className="w-full h-screen overflow-hidden px-4 lg:px-8 py-10">
+    <div className="w-full h-screen overflow-hidden px-4 lg:px-8 py-10 bg-[#1c1c1c]/50">
       <div className="w-full">
         <Link to={"/"}>
           <img src="/logo.png" alt="logo" className="w-[161px] h-[38px]" />

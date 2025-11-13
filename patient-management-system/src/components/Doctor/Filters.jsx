@@ -18,7 +18,7 @@ const Filters = () => {
       <select
         name="rows"
         id="rows"
-        className="text-gray-400 rounded-md text-xs bg-slate-700/20 outline-none px-2 py-1.5"
+        className="rounded-md text-xs bg-slate-700/20 outline-none px-2 py-1.5"
       >
         <option value="10" defaultValue={10}>
           10
